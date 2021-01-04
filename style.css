@@ -8,3 +8,11 @@ body{
 h1{
     font-size: 50px;;
 }
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    height: 420px;
+    width: 820px;
+}
