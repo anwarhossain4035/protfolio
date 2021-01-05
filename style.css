@@ -67,4 +67,43 @@ h1{
     background-color: hotpink;
     line-height: 40%;
 }
+.about{
+    margin-left: 250px;
+}
+.one-third{
+    width: 30%;
+    height: 200px;
+    border: 1px solid rgb(218, 204, 231);
+    float: left;
+    margin: 15px;
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px 15px gray;
+}
+img{
+    height: 40%;
+    width: 100%;
+}
 
+.work-inquary{
+    height: 300px;
+    
+    margin-top: 350px;
+    
+   
+}
+.chat{
+    height: 180px;
+    width: 650px;
+    border-radius: 20px;
+    background-image: url('images/Group_33094_1.png');
+    border-radius: 30px;
+    border-bottom-right-radius: 50px;
+    margin: auto;
+
+
+}
+
+.btn{
+    
+}
