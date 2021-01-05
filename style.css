@@ -1,5 +1,7 @@
 body{
+    margin: 0;
     font-family: 'Playfair Display', serif;
+    background-image: url('images/bag.jpeg');
 }
 .name-hilieght{
     color: orange;
@@ -14,5 +16,55 @@ h1{
 }
 .half-width img{
     height: 420px;
-    width: 820px;
+    width: 620px;
+    margin-left: 110px;
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,orange,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.header{
+    margin: 40px;
+    height: 500px;
+   
+   
+    
+}
+.skill{
+    text-align: center;
+    color: orange;
+   text-decoration: underline;
+   text-decoration-style:solid;
+   text-decoration-color: rgb(235, 145, 10);
+   margin-top: 100px;
+
+}
+.main{
+    text-align: center;
+    margin-left: 100px;
+ 
+   
+}
+.mainskill{
+    background-color: rgb(224, 205, 224);
+    margin: 10px;
+    box-shadow: 15px 15px 15px 15px gray;
+    border-radius: 45px;
+    border-style: outset solid groove;
+}
+.My{
+    margin-left: 220px;
+}
+.experences{
+    width: 100%;
+    height: 300px;
+    
+}
+.full-width{
+    background-color: hotpink;
+    line-height: 40%;
+}
+
